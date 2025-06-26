@@ -14,8 +14,13 @@ Authors: Guillermo Palou-Márquez\*1, Pere Pericot-Masdevall\*1, and Fran Supek1
 
 Correspondence to: fran.supek@bric.ku.dk 
 
-Abstract:
+**Abstract**:
 
 Allelic imbalance (AI) in levels of mRNAs that originated from the paternal and maternal copies of a gene can contribute to phenotypic variation and influence disease traits, including cancer. It is widely appreciated that AI at the DNA level, resulting from somatic copy number alterations (CNA) in tumors, generates second-hit events by which mutated tumor suppressor genes are inactivated and mutated oncogenes are activated; such somatic CNAs are also a known cause of AI at the mRNA level. Apart from CNA, other mechanisms could lead to AI of somatic mutations in mRNA expression and also drive cancer evolution. By integrating genomic and transcriptomic pan-cancer data, we show that mRNA allelic imbalance favoring the mutant allele in driver genes is subject to positive selection, generating second-hit events often independently of somatic CNA. In some cases, the somatic coding mutations could induce allele-specific expression directly, for example, with splicing-altering exonic mutations, which can be selected in various cancer genes. However, in the majority of cases, these and related somatic mutation effects (which might in principle alter transcription output via impacting promoters or intragenic enhancers) do not explain the CNA-independent mRNA-level AI, suggesting prevalent epigenetic alterations affecting alleles differently in tumors. Importantly, the mRNA AI events associate with worse overall survival across all cancer types, outperforming various other predictive markers. Our study suggests that mRNA allelic imbalances can occur independently of CNA but similarly function as second-hit events to somatic mutations, driving tumorigenesis and represent valuable prognostic biomarkers for cancer patient stratification.
+
+# Code
+
+
+
 
 
