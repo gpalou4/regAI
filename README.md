@@ -21,9 +21,10 @@ Allelic imbalance (AI) in levels of mRNAs that originated from the paternal and 
 ![Fig1A](https://github.com/user-attachments/assets/4d0759bc-1e86-48ef-865a-ab4368c18d54)
 
 <p align="center">
-  <img src="[https://pfst.cf2.poecdn.net/base/image/db187af325eade466db23177181ed8e187cac931dc0490ca920ffc485a5cc328?w=630&h=429&pmaid=408166007](https://github.com/user-attachments/assets/4d0759bc-1e86-48ef-865a-ab4368c18d54)"
-       alt="Figure 1A – Allelic balance vs. allelic imbalance in mRNA"
-       width="630">
+  <img
+    src="https://pfst.cf2.poecdn.net/base/image/db187af325eade466db23177181ed8e187cac931dc0490ca920ffc485a5cc328?w=630&h=429&pmaid=408166007"
+    alt="Figure 1A – Allelic balance vs. allelic imbalance in mRNA"
+    width="630">
 </p>
 
 # Code
