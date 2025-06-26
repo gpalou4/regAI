@@ -2,7 +2,7 @@
 
 This is the repository for the manuscript "Copy number-independent allelic imbalance in mRNA is selected in cancer and has prognostic relevance"
 
-Authors: Guillermo Palou-Márquez*1, Pere Pericot-Masdevall*1, and Fran Supek1,2,3
+Authors: Guillermo Palou-Márquez\*1, Pere Pericot-Masdevall\*1, and Fran Supek1,2,3
 
 1 Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute for Science and Technology (BIST), 08028 Barcelona, Spain
 
@@ -10,7 +10,7 @@ Authors: Guillermo Palou-Márquez*1, Pere Pericot-Masdevall*1, and Fran Supek1,2
 
 3 Catalan Institution for Research and Advanced Studies (ICREA), Barcelona, Spain
 
-* Authors contributed equally
+\* Authors contributed equally
 
 Correspondence to: fran.supek@bric.ku.dk 
 
