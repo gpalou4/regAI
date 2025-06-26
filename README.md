@@ -1,6 +1,6 @@
 # regAI
 
-This is the repository for the manuscript "Copy number-independent allelic imbalance in mRNA is selected in cancer and has prognostic relevance"
+This is the repository for the manuscript "_Copy number-independent allelic imbalance in mRNA is selected in cancer and has prognostic relevance_"
 
 Authors: Guillermo Palou-Márquez\*1, Pere Pericot-Masdevall\*1, and Fran Supek1,2,3
 
