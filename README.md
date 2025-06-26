@@ -22,9 +22,9 @@ Allelic imbalance (AI) in levels of mRNAs that originated from the paternal and 
 
 There are two files:
 
--AI_beta_binomial_models --> Builds beta–binomial regression models that quantify allelic imbalance (AI) for every single-nucleotide variant (SNV) detected across the TCGA pan-cancer cohort (-> 854 ,787 SNVs). For this, it uses a pre-processed DNA- and RNA-level allele counts generated from matched WES and RNA-Seq data by Strelka2 (not provided, see Methods in the manuscript), with already integrates additional annotation (survival data, DNA methylation, Puffin-D predictions etc.)
+-**AI_beta_binomial_models** --> Builds beta–binomial regression models that quantify allelic imbalance (AI) for every single-nucleotide variant (SNV) detected across the TCGA pan-cancer cohort (-> 854 ,787 SNVs). For this, it uses a pre-processed DNA- and RNA-level allele counts generated from matched WES and RNA-Seq data by Strelka2 (not provided, see Methods in the manuscript), with already integrates additional annotation (survival data, DNA methylation, Puffin-D predictions etc.)
 
--AI_cancer_analysis --> Re-creates all manuscript figures and tables from the previous dataframe produced above. Performs AI-dN/dES selection tests, survival modelling, enrichment analyses, etc. Generates data frames used for publication-quality plots (PDF/PNG) later on.
+-**AI_cancer_analysis** --> Re-creates all manuscript figures and tables from the previous dataframe produced above. Performs AI-dN/dES selection tests, survival modelling, enrichment analyses, etc. Generates data frames used for publication-quality plots (PDF/PNG) later on.
 
 
 
